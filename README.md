@@ -28,7 +28,7 @@
 
 - 📫 Feel free to reach me out **galahadcontrerasreyes@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  discordapp.com/users/898991318863347753 that's my username vvy
+- 🏠 Don't hesitate to drop me a **👋** on Discord – [1010nishant](discordapp.com/users/898991318863347753) that's my username vvy
 
 <!--- stats (end) -->
 
