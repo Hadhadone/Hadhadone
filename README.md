@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **python, c++, sql, sqlite **
+- 🔭 I’m currently working on **python, c++, sql, sqlite**, i'm learning now **java and c#**
 
 - 🌱 **i want to increase my knowledge day by day**
 
