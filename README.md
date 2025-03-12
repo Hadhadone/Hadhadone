@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My profile</title>
     <!-- i can't use here css file 'cause github don't allow me to use it in my profile so i use inline css -->
 </head>
 <body>
@@ -14,10 +13,10 @@
     <div id="user-content-toc">
         <h1>Hi!!, I'm Galahad, it's a pleasure</h1>
     </div>
-    <div class="container">
+    <!--<div class="container">
         <img src="Imagen de WhatsApp 2025-03-11 a las 17.21.47_9235462e.jpg" alt="imagen de Galahad" class="img">
         <h2 style="font-family: Arial, Helvetica, sans-serif;">its time to show you who i am <br>as well as my technology skills</h2>
-    </div>
+    </div> -->
     <div class="boutme">
         <ul>
             <li>- 🔭 I’m currently working on <strong>python, c++, java, sql, sqlite</strong> 
