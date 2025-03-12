@@ -5,39 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My profile</title>
     <!-- i can't use here css file 'cause github don't allow me to use it in my profile so i use inline css -->
-    <style>
-        body {
-            background-image: url('top.jpeg');
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-        }
-        #user-content-toc{
-            text-align: center;
-            font-family: Arial, Helvetica, sans-serif;
-            text-decoration: underline;
-        }   
-        .img{
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-            object-fit: cover;
-        }
-        .container{
-            text-align: center;
-        }
-        span
-        {
-            font-style: bold;
-        }
-        .boutme{
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        ul{
-            list-style-type: none;
-            text-align: center;
-        }
-    </style>
 </head>
 <body>
     <!-- i use the class container to center any image want to use, ill use it in the future -->
